@@ -23,3 +23,12 @@ version:             1.0.0
 
 #Gems
 gems: [jekyll-paginate, jekyll-gist]
+
+
+
+
+#Redcarpet to Kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
