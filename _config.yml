@@ -24,10 +24,13 @@ version:             1.0.0
 #Gems
 gems: [jekyll-paginate, jekyll-gist]
 
+#navigation bar
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
 
-
-
-#Redcarpet to Kramdown
+#Kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
