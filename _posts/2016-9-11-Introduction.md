@@ -2,7 +2,7 @@
 layout: post
 title: Introduction
 comments: true
-permalink: short-urls-jekyll
+permalink: /short-urls-jekyll
 tags:
 
 
