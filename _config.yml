@@ -7,16 +7,16 @@ permalink:           pretty
 # Setup
 title:               Shibasis Patel
 tagline:             'A CSE undergraduate'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+description:         'A Second year Computer Science and Engineering Undergraduate in IIIT Bhubaneswar'
+url:                 http://shibasisp.github.io
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Shibasis Patel
+  url:               https://twitter.com/smartshibasish
+  email:             smartshibasish@gmail.com
 
 # Custom vars
 version:             1.0.0
@@ -28,7 +28,7 @@ gems: [jekyll-paginate, jekyll-gist]
 pages_list:       
   About: '/about'
   Archive: '/archive'
-  Feed: '/atom.xml'
+  
 
 #Kramdown
 kramdown:

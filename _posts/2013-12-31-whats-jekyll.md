@@ -1,13 +1,17 @@
 ---
 layout: post
-title: What's Jekyll?
+title: My First post
 comments: true
+permalink: short-urls-jekyll
+tags:
+
+
 ---
 
-[Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
+   Finally, I made my mind to write a blog. After struggling so much to write something, I realized that even if you have too much to say and express, it’s just your words that the world counts.
 
-  > Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
-
+   Writing this blog not only improve my writing but also make a log of activities done by me. Here, I will share whatever I learn, whatever problems I encountered and How I solved them. This blog will be more inclined towards Linux, Python/Ruby lovers and open source enthusiast. 
 It's an immensely useful tool and one we encourage you to use here with Lanyon.
 
-Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).
+
+{% include twitter_plug.html %}
