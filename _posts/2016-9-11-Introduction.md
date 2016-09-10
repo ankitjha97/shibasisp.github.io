@@ -1,9 +1,8 @@
 ---
 layout: post
-blog: shibasisp.github.io
 title: Introduction
 comments: true
-permalink: /:blog/:title
+permalink: /shibasisp.github.io/:title
 tags:
 
 
