@@ -3,7 +3,7 @@ layout: post
 blog: shibasisp.github.io
 title: Introduction
 comments: true
-permalink: /blog/:title
+permalink: /:blog/:title
 tags:
 
 
